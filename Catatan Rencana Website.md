@@ -3,7 +3,7 @@
 Website profil satu halaman (single-page) untuk **SMP IT Ibnu Abbas Klaten**, sekolah Islam
 terpadu di bawah naungan **PPTQ Ibnu Abbas Klaten**, Belangwetan, Klaten Utara, Jawa Tengah.
 
-🔗 **Live:** https://eugeneivander61.github.io/smpit/
+🔗 **Live:** https://eugeneivander61.github.io/smpit-ibnu-abbas-klaten/
 📦 **Repo:** https://github.com/eugeneivander61/smpit (public)
 
 ---
